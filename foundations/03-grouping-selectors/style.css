@@ -1,0 +1,16 @@
+
+.butt-one, 
+.butt-two{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.butt-one{
+    background-color: black; 
+    color: white;
+    font-weight: bold;
+}
+
+.butt-two{
+    background-color: yellow;
+}
